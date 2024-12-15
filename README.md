@@ -29,7 +29,7 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
   &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" title="Tailwind CSS" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/maazkhan75/HostedAssets@main/icons/wordpress1.svg" alt="wordpress" title="Wordpress"  width="40" height="40" />][tech_tools_anchor]
+[<img src="https://cdn.jsdelivr.net/gh/maazkhandev75/HostedAssets@main/icons/wordpress1.svg" alt="wordpress" title="Wordpress"  width="40" height="40" />][tech_tools_anchor]
   &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" title="React.js" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
@@ -72,7 +72,7 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/maazkhan75/HostedAssets@main/icons/github.svg" alt="github" title="Github" width="40" height="40"/>][tech_tools_anchor]
+[<img src="https://cdn.jsdelivr.net/gh/maazkhandev75/HostedAssets@main/icons/github.svg" alt="github" title="Github" width="40" height="40"/>][tech_tools_anchor]
   &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" title="Vim" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
@@ -80,7 +80,7 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
   &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="webpack" title="Webpack" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
-  [<img src="https://cdn.jsdelivr.net/gh/maazkhan75/HostedAssets@main/icons/vercel1.svg" alt="vercel" title="Vercel" width="36" height="36" />][tech_tools_anchor]
+  [<img src="https://cdn.jsdelivr.net/gh/maazkhandev75/HostedAssets@main/icons/vercel1.svg" alt="vercel" title="Vercel" width="36" height="36" />][tech_tools_anchor]
   &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40" />][tech_tools_anchor]
   &nbsp;
