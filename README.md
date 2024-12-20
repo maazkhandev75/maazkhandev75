@@ -88,6 +88,12 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
   &nbsp;
 </div>
 
+<br>
+
+## 📅 Contribution History
+<div align="center">
+<img alt="Maaz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=maazkhandev75&bg_color=1F222E&color=F8D866&line=f01000&point=FFFFFF&hide_border=true" />
+</div>
 
 <br>
 
@@ -98,6 +104,3 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
   &nbsp;
  <a href="mailto:maazkhan75555@gmail.com"><img title="Send me Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-
-
