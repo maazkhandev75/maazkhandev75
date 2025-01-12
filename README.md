@@ -95,3 +95,12 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
 <img alt="Maaz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=maazkhandev75&bg_color=1F222E&color=F8D866&line=f01000&point=FFFFFF&hide_border=true" />
 </div>
 
+<br>
+
+## 🌐 Connect
+<p align="left">
+ 
+  <a href="https://www.linkedin.com/in/maazkhan75/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+ <a href="mailto:maazkhan75555@gmail.com"><img title="Send me Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
