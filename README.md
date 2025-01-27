@@ -33,8 +33,7 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
 
 <div align="center">
  
-![maazkhandev75's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maazkhandev75&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
+![maazkhandev75's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maazkhandev75&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <br>
