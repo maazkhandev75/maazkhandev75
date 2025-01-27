@@ -31,9 +31,11 @@ hobbies: list[str] = ["Reading", "Traveling", "Planting"]
 
 <br>
 
-## Most Used Languages
+<div align="center">
+ 
 ![maazkhandev75's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maazkhandev75&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+</div>
 
 <br>
 
